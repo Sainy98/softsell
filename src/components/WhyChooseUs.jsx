@@ -53,7 +53,7 @@ const WhyChooseUs = () => {
               viewport={{ once: true }}
               className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-md hover:shadow-lg transition-shadow"
             >
-              <div className="bg-purple-100 dark:bg-purple-900 w-12 h-12 rounded-full flex items-center justify-center mb-6 mx-auto">
+              <div className="[&>*]:stroke-[#52009c] dark:[&>*]:stroke-white bg-purple-100 dark:bg-purple-900 w-12 h-12 rounded-full flex items-center justify-center mb-6 mx-auto">
                 {benefit.icon}
               </div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3 text-center">
