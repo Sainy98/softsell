@@ -4,7 +4,7 @@
 
 A responsive single-page marketing website for a fictional software resale startup, built with React and Tailwind CSS.
 
-## Features
+## 📌 Features
 
 - **Modern UI/UX Design**
   - Clean, professional interface
@@ -26,7 +26,7 @@ A responsive single-page marketing website for a fictional software resale start
   - Responsive design (mobile-first)
   - Dark mode persistence using localStorage
 
-## Bonus Features
+## 📌 Bonus Features
 
 ✅ AI-powered chat widget (mock implementation)  
 ✅ SEO optimized with meta tags  
@@ -35,7 +35,7 @@ A responsive single-page marketing website for a fictional software resale start
 ✅ Responsive navigation menu  
 ✅ Form validation  
 
-## Technologies Used
+## 📌 Technologies Used
 
 - **Frontend**
   - React.js
@@ -44,7 +44,7 @@ A responsive single-page marketing website for a fictional software resale start
   - Framer Motion
   - React Icons
 
-## Installation
+## 📌 Installation
 
 1. Clone the repository:
    ```bash
@@ -70,15 +70,15 @@ A responsive single-page marketing website for a fictional software resale start
     ```bash
     npm run build
 
-## Deployment
+## 📌 Deployment
 The project is configured for easy deployment to:
 - Vercel
 - Netlify
 - GitHub Pages
 
-Live Demo <!-- Update this with your live link later -->
+🔗[Live Demo](https://softsell-web.netlify.app/)
 
-## Project Structure
+## 📌 Project Structure
 ```bash
 src/
 ├── components/          # React components
@@ -88,25 +88,25 @@ src/
 └── index.css            # Tailwind CSS
 ```
 
-## Design Choices
+## 📌 Design Choices
 - Color Scheme: Purple/blue gradient with neutral backgrounds
 - Typography: Clean, modern Inter font
 - Animations: Subtle but purposeful motion effects
 - Dark Mode: Full support with system preference detection
 
-## Time Spent
+## 📌 Time Spent
 - Planning & Design: 2 hours
 - Development: 6 hours
 - Testing & Polish: 2 hours
 - Documentation: 10 min
 
-## Future Improvements
+## 📌 Future Improvements
 - Add real backend integration
 - Implement actual AI chat functionality
 - Add more interactive elements
 - Include analytics
 
-## License
+## 📌 License
 MIT License - Feel free to use as a template for your projects
 
 
