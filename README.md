@@ -86,6 +86,7 @@ src/
 ├── App.jsx              # Main application
 ├── main.jsx             # Entry point
 └── index.css            # Tailwind CSS
+```
 
 ## Design Choices
 - Color Scheme: Purple/blue gradient with neutral backgrounds
