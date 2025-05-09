@@ -79,6 +79,7 @@ The project is configured for easy deployment to:
 Live Demo <!-- Update this with your live link later -->
 
 ## Project Structure
+```bash
 src/
 ├── components/          # React components
 ├── context/             # Theme context provider
